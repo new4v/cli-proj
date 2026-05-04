@@ -1,11 +1,11 @@
 # Node
-node/node_modules/
+node_modules/
 
 # Python
-python/__pycache__/
-python/*.egg-info/
-python/dist/
-python/.venv/
+__pycache__/
+*.egg-info/
+dist/
+.venv/
 
 # Rust
 rust/target/
