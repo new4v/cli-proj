@@ -1,3 +1,18 @@
-node_modules/
-.env
+# Node
+node/node_modules/
+
+# Python
+python/__pycache__/
+python/*.egg-info/
+python/dist/
+python/.venv/
+
+# Rust
+rust/target/
+
+# Go
+go/vendor/
+
+# Common
 *.log
+.env
